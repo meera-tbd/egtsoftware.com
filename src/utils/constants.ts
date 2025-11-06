@@ -20,9 +20,9 @@ export const SITE_CONFIG = {
   
   // Social Media
   social: {
-    twitter: "https://twitter.com/egtsoftware",
-    facebook: "https://www.facebook.com/egtsoftware",
-    instagram: "https://www.instagram.com/egtsoftware",
+    twitter: "https://x.com/egtsoftware",
+    facebook: "https://www.facebook.com/profile.php?id=61583432995254",
+    instagram: "https://www.instagram.com/egtsoftware3/",
   },
   
   // SEO

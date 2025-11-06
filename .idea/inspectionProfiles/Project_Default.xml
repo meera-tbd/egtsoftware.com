@@ -1,0 +1,81 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="amqp" />
+          <option value="asgiref" />
+          <option value="asttokens" />
+          <option value="async-timeout" />
+          <option value="beautifulsoup4" />
+          <option value="billiard" />
+          <option value="celery" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="click-didyoumean" />
+          <option value="click-plugins" />
+          <option value="click-repl" />
+          <option value="colorama" />
+          <option value="colorlog" />
+          <option value="coreapi" />
+          <option value="coreschema" />
+          <option value="cron_descriptor" />
+          <option value="cryptography" />
+          <option value="decorator" />
+          <option value="diff-match-patch" />
+          <option value="Django" />
+          <option value="django-celery-beat" />
+          <option value="django-cors-headers" />
+          <option value="django-extensions" />
+          <option value="django-filter" />
+          <option value="django-import-export" />
+          <option value="django-timezone-field" />
+          <option value="django_celery_results" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework_simplejwt" />
+          <option value="executing" />
+          <option value="greenlet" />
+          <option value="idna" />
+          <option value="ipython" />
+          <option value="ipython_pygments_lexers" />
+          <option value="itypes" />
+          <option value="jedi" />
+          <option value="Jinja2" />
+          <option value="kombu" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib-inline" />
+          <option value="packaging" />
+          <option value="parso" />
+          <option value="playwright" />
+          <option value="prompt_toolkit" />
+          <option value="psutil" />
+          <option value="psycopg2-binary" />
+          <option value="pure_eval" />
+          <option value="pyee" />
+          <option value="Pygments" />
+          <option value="PyJWT" />
+          <option value="python-crontab" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="redis" />
+          <option value="requests" />
+          <option value="rest-framework-simplejwt" />
+          <option value="six" />
+          <option value="soupsieve" />
+          <option value="sqlparse" />
+          <option value="stack-data" />
+          <option value="tablib" />
+          <option value="traitlets" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="uritemplate" />
+          <option value="urllib3" />
+          <option value="vine" />
+          <option value="wcwidth" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

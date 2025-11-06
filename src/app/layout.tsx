@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import GoogleAnalytics from "@/components/common/GoogleAnalytics";
@@ -12,6 +12,11 @@ const inter = Inter({
 
 export const metadata: Metadata = generateSEO();
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -20,7 +25,6 @@ export default function RootLayout({
   return (
     <html lang="en" className={`scroll-smooth ${inter.variable}`}>
       <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="icon" type="image/x-icon" sizes="32x32" href="/assets/logos/favicon.ico" />
         <link rel="icon" type="image/x-icon" sizes="16x16" href="/assets/logos/favicon.ico" />
