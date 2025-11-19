@@ -126,9 +126,9 @@ export default function AboutPage() {
                   <p>
                     Founded in {SITE_CONFIG.foundingYear} by a team of data engineers and business consultants, 
                     {SITE_CONFIG.name} emerged from a real need we experienced firsthand: businesses drowning 
-                    in data but struggling to extract meaningful insights. What started in a small Sydney office 
+                    in data but struggling to extract meaningful insights. What started in a small Ahmedabad office 
                     with three founders and a coffee machine has grown into a trusted analytics partner for 
-                    organizations across Australia and beyond.
+                    organizations across India and beyond.
                   </p>
                   <p>
                     Our breakthrough came in 2005 when we helped a struggling retail chain identify hidden 
